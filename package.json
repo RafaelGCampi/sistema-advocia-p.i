@@ -8,9 +8,23 @@
   "author": "Rafael G.",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "vuetify": "^2.6.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3",
+    "deepmerge": "^4.2.2",
+    "sass": "^1.32.13",
+    "sass-loader": "^12.6.0"
+  },
   "keywords": [],
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelGCampi/sistema-advocia-p.i.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RafaelGCampi/sistema-advocia-p.i/issues"
+  },
+  "homepage": "https://github.com/RafaelGCampi/sistema-advocia-p.i#readme"
 }
